@@ -1,0 +1,25 @@
+.embedlink{
+    font-style: arial;
+    font-family: arial;
+
+    margin-top: 8px;
+    font-size: 13px;
+    text-decoration: none;
+    color: rgb(85, 140, 223);
+    line-height: 1.125rem;
+}
+.embedlink:hover {
+    text-decoration: underline;
+}
+.embed{
+    background-color: #171718;
+    border-radius: 15px;
+    height: 50px;
+}
+.center {
+    margin: auto;
+    width: 50%;
+}
+.body{
+    background-color: #202020;
+}
